@@ -1,0 +1,6 @@
+print("AI Research Assistant")
+query = input("Enter topic: ")
+print("Agent 1: Searching...")
+print("Agent 2: Summarizing...")
+print("Agent 3: Generating Report...")
+print("Research Report Generated")
