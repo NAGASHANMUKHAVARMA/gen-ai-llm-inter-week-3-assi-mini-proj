@@ -1,0 +1,10 @@
+Image Captioning Pipeline
+
+Input:
+Image
+
+Model:
+Vision Language Model
+
+Output Example:
+"A dog is running in a park."
