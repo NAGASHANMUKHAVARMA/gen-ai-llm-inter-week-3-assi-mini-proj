@@ -1,0 +1,13 @@
+Multi-Agent System
+
+Agent 1:
+Web Search Agent
+
+Agent 2:
+Summarization Agent
+
+Agent 3:
+Report Generation Agent
+
+Task:
+Research and generate structured reports.
