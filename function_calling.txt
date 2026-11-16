@@ -1,0 +1,10 @@
+Function Calling
+
+Function:
+Weather API
+
+Input:
+Hyderabad
+
+Output:
+Current weather information retrieved from API.
