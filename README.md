@@ -1,1 +1,1 @@
-# gen-ai-llm-inter-week-3-assi-mini-proj
+# gen-ai-llm-inter-Week-3-assi-mini-proj
