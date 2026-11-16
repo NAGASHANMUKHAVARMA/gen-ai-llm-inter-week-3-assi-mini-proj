@@ -1,0 +1,14 @@
+Fine-Tuning LLM
+
+Model: GPT-2
+
+Technique:
+- LoRA
+- QLoRA
+- PEFT
+
+Dataset:
+Custom Question Answer Dataset
+
+Purpose:
+Train model on domain-specific knowledge.
